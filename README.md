@@ -16,4 +16,4 @@ Busco me especializar mais em programação, inclusive na parte web.
 
  :office:  &nbsp; Estou trabalhando na **EL produções de software LTDA**
  <br/> :computer: &nbsp; Buscando criar alguns projetos CodeIgniter e outros projetos web, estou aprendendo mais sobre React e React native e outras tecnologias.
- <br/>  &nbsp; Stacks: PHP, CodeIgniter.
+ <br/> :computer: &nbsp; Stacks: PHP, CodeIgniter.
