@@ -9,17 +9,11 @@ Coding and learning about new technologies.
 
 <img width="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQEe4yNSpoyKmw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=iHL-FQz6j8eJFbV1ZfZlWGrn1StmsU8AoFzLriBEzsU">
 
-## Olá pessoal 👋
+## Hi guys
 
 Estou estudando e focado em programação.
 Busco me especializar mais em programação, inclusive na parte web.
 
  :office:  &nbsp; Estou trabalhando na **EL produções de software LTDA**
- <br/> :purple_heart: &nbsp; Buscando criar alguns projetos CodeIgniter e outros web. 
- <br/> :blush: &nbsp; Estou aprendendo mais sobre React e React native e outras tecnologias.
- <br/> :computer: &nbsp; Minha stack: PHP, CodeIgniter.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e busco conhecer mais!!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
-
+ <br/> :computer: &nbsp; Buscando criar alguns projetos CodeIgniter e outros projetos web, estou aprendendo mais sobre React e React native e outras tecnologias.
+ <br/>  &nbsp; Stacks: PHP, CodeIgniter.
