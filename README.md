@@ -12,9 +12,9 @@ Coding and learning about new technologies.
 
 ## Eaí pessoal
 
-Estou estudando e focado em programação.
-Busco me especializar mais em programação, inclusive na parte web.
+I am studying and focused on programming.
+I seek to specialize in programming, including on the web.
 
- :office:  &nbsp; Estou trabalhando na **EL produções de software LTDA**
- <br/> :computer: &nbsp; Buscando criar alguns projetos CodeIgniter e outros projetos web, estou aprendendo mais sobre React e React native e outras tecnologias.
+ :office:  &nbsp; I'm working at **EL produções de software LTDA**
+ <br/> :computer: &nbsp; Looking to create CodeIgniter and other web projects, I'm learning more about React and native React and other technologies.
  <br/> :computer: &nbsp; Stacks: PHP, CodeIgniter.
