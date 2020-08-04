@@ -15,9 +15,9 @@ Estou estudando e focado em programação.
 Busco me especializar mais em programação, inclusive na parte web.
 
  :office:  &nbsp; Estou trabalhando na **EL produções de software LTDA**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos CodeIgniter e Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos CodeIgniter e estou aprendendo mais sobre React e React native.
  <br/> :blush: &nbsp; Posso te ajudar com PHP
- <br/> :computer: &nbsp; Minha stack: PHP, CodeIgnite.
+ <br/> :computer: &nbsp; Minha stack: PHP, CodeIgniter.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e busco aprender mais!!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Wenderson%20da%20Silva%20Schroder-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/) 
 | 
