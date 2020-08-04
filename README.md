@@ -21,5 +21,5 @@ Busco me especializar mais em programação, inclusive na parte web.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e busco conhecer mais!!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
 
