@@ -8,7 +8,7 @@ Open to new opportunities
 
 ## Coding and learning about new technologies.
  
-<img style="height:'200px'; width:'1.4vw'" src="https://github.com/wendersondev0/wendersondev0/blob/master/.github/wallpaper-github.jpg?raw=true">
+<img style="height:'200px'; width:'1.4vw'" src="https://github.com/wendersondev0/wendersondev0/blob/master/.github/wallpaper-github.jpg">
 </div>
 
 ## Hello guys
