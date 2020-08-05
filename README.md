@@ -5,7 +5,9 @@ Open to new opportunities
 [![Linkedin Badge](https://img.shields.io/badge/-Wenderson%20da%20Silva%20Schroder-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)  [![Gmail Badge](https://img.shields.io/badge/-wendersondasilva3@gmail.com-f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
 
 <div align="center">
- <p>##Coding and learning about new technologies.</p><br/>
+
+## Coding and learning about new technologies.
+ 
 <img style="height:'200px'; width:'1.4vw'" src="https://media-exp1.licdn.com/dms/image/C4D16AQEe4yNSpoyKmw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=iHL-FQz6j8eJFbV1ZfZlWGrn1StmsU8AoFzLriBEzsU">
 </div>
 
