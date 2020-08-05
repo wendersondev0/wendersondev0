@@ -6,7 +6,7 @@ Open to new opportunities
 
 Coding and learning about new technologies.
 <div align="center">
-<img height="1vh" width="1vw" src="https://media-exp1.licdn.com/dms/image/C4D16AQEe4yNSpoyKmw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=iHL-FQz6j8eJFbV1ZfZlWGrn1StmsU8AoFzLriBEzsU">
+<img style="height:'200px'; width:'1vw'" src="https://media-exp1.licdn.com/dms/image/C4D16AQEe4yNSpoyKmw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=iHL-FQz6j8eJFbV1ZfZlWGrn1StmsU8AoFzLriBEzsU">
 </div>
 
 ## Eaí pessoal
