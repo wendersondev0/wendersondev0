@@ -11,7 +11,7 @@ Open to new opportunities
 <img style="height:'200px'; width:'1.4vw'" src="https://media-exp1.licdn.com/dms/image/C4D16AQEe4yNSpoyKmw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=iHL-FQz6j8eJFbV1ZfZlWGrn1StmsU8AoFzLriBEzsU">
 </div>
 
-## Eaí pessoal
+## Hello guys
 
 I am studying and focused on programming.
 I seek to specialize in programming, including on the web.
