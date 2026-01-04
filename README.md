@@ -1,23 +1,76 @@
 # Wenderson da Silva Schroder
 
-Sempre aberto para novas possibilidades.
+Always open to new opportunities and continuous learning.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wenderson%20da%20Silva%20Schroder-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)  [![Gmail Badge](https://img.shields.io/badge/-wendersondasilva3@gmail.com-f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Wenderson%20da%20Silva%20Schroder-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)](https://www.linkedin.com/in/wenderson-da-silva-schroder-a76a281ab/)
+[![Gmail Badge](https://img.shields.io/badge/-wendersondasilva3@gmail.com-f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendersondasilva3@gmail.com)](mailto:wendersondasilva3@gmail.com)
 
 <div align="center">
 
-## Estudando e Aprendendo novas tecnologias e programação.
- 
+## Studying, building, and constantly improving in software development 🚀
+
 <img src="https://github.com/wendersondev0/wendersondev0/blob/master/.github/wallpaper-github.jpg">
+
 </div>
 
-## Olá a todos
+---
 
-Eu estou estudando e focando em programação.
-Já fiz várias cursos pela internet e sou um assinante da alura.
-Atualmente estou fazendo um curso de "Análise e desenvolvimento de sistemas".
-Busco me especializar em programação, inclusive na web.
+## 👋 Hello everyone
 
- :office:  &nbsp; Eu estou trabalhando na **EL produções de software LTDA**
- <br/> :computer: &nbsp; Atualmente estou esudando muito e trabalhando com tecnologias c#, como: o asp.net core, dotnet core, blazor, entity framework core, dapper ORM, sql server. Também já trabalhei com php com o framework codeigniter.
- <br/> :computer: &nbsp; Stacks: Asp.net core, Entity framework core, Blazor, Dapper ORM, PHP, Codeiniter, java, React, React Native, Html, css, javascript.
+I am a **Software Developer / Systems Analyst** with a strong focus on **backend development using .NET technologies**.
+
+I have experience building **scalable, maintainable, and performance-oriented applications**, working mainly with **ASP.NET Core**, **REST APIs**, and **relational databases**. I enjoy solving complex business logic problems, optimizing SQL queries, and designing clean backend architectures.
+
+Currently, I am pursuing a degree in **Systems Analysis and Development**, while continuously improving my skills through online courses and hands-on projects.
+
+---
+
+### 🏢 Work
+- 💼 Currently working at **EL Produções de Software LTDA**
+
+---
+
+### 💻 Main Technologies & Tools
+
+**Backend / Server-side**
+- C#
+- ASP.NET Core
+- .NET Core
+- Razor Pages
+- REST APIs
+- Entity Framework Core
+- Dapper ORM
+- SQL Server
+
+**Frontend (supporting skills)**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- DevExtreme (DevExpress)
+
+**Other Technologies**
+- PHP (CodeIgniter)
+- Java
+- React
+- React Native
+
+**Tools & Practices**
+- Git & GitHub
+- Clean Code
+- Performance optimization
+- SQL query optimization
+- DTOs and layered architecture
+
+---
+
+### 🎯 Professional Focus
+- Backend development
+- API integrations
+- Database design and optimization
+- Scalable and maintainable systems
+- Performance and clean architecture
+
+---
+
+📌 *Always learning, building, and looking for better solutions.*
