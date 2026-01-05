@@ -52,6 +52,9 @@ I have **completed my degree in Systems Analysis and Development** and I am curr
 - Bootstrap
 - DevExtreme (DevExpress)
 
+### 🔄 Currently Studying
+- **Vue.js** (modern frontend framework focused on reactivity and performance)
+
 ### Other Experience
 - PHP (CodeIgniter)
 - Java
